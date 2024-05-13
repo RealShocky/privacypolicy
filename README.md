@@ -7,7 +7,7 @@
 **Effective Date: [05/01/2024]**
 
 **Introduction:**
-Welcome to the privacy policy of [Your Business Name] ("we", "us", or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy or our practices regarding your personal information, please contact us at [Your Contact Information].
+Welcome to the privacy policy of [Vibration Robotics] ("we", "us", or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy or our practices regarding your personal information, please contact us at [contact@vibrationrobotics.com].
 
 **Table of Contents:**
 1. What Information Do We Collect?
